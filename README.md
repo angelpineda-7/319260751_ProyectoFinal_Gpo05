@@ -1,1 +1,14 @@
-# 319260751_ProyectoFinal_Gpo05
+# **UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO**  
+# **FACULTAD DE INGENIERÍA**  
+# **DIVISIÓN DE INGENIERÍA ELÉCTRICA**  
+# **INGENIERÍA EN COMPUTACIÓN**  
+
+<br>
+
+# **FERIA**
+
+<br>
+
+## **Nº de Cuenta**: 319260751  
+## **GRUPO DE TEORÍA**: 05  
+## **SEMESTRE 2025-2**  
